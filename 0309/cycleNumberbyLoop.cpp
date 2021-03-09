@@ -22,7 +22,6 @@ int get_cycle_number(int n) {
 
 
 int main() {
-	//사이클 숫자 by 반복문
 	printf(" 길이 : %d", get_cycle_number(22));
 
 	return 0;
